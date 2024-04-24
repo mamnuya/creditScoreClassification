@@ -3,7 +3,7 @@
 This project explores the
 classification results of Random Forest, K-Nearest Neighbor (KNN), Gaussian Naive Bayes, and XGBoost
 Classifiers. Additionally, we consider the classification with combinations of applying Synthetic Minority
-Over-sampling Technique (SMOTE), not applying SMOTE, applying outlier removal, and not applying outlier removal. We determine the best models for classifications, while including visualizations and performance results.
+Over-sampling Technique (SMOTE), not applying SMOTE, applying outlier removal, and not applying outlier removal. We determine the best models for classifications, while including visualizations and performance results. This project includes a written report evaluating results, methods, motivations, previous studies, and more.
 
 ## Installation
 
